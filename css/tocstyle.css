@@ -1,0 +1,10 @@
+#toc a
+{
+	display:block;
+	color:#028AC9;
+}
+
+#toc a[title=H3]
+{
+	font-size:14px;
+}
